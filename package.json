@@ -58,7 +58,7 @@
     "eslint-plugin-react": "7.13.0",
     "eslint-plugin-vazco": "1.0.0",
     "graphql": "^14.0.0 || 0.8.0 - 14.0.0",
-    "husky": "2.4.1",
+    "husky": "2.4.0",
     "invariant": "^2.0.0",
     "jest": "24.8.0",
     "lerna": "3.15.0",
