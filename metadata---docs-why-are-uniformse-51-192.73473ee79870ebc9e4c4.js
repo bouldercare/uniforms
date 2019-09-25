@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[70],{80:function(o){o.exports=JSON.parse('{"id":"why-are-uniforms","title":"Why are uniforms?","description":"## Forms concept","source":"/home/travis/build/vazco/uniforms/docs/why-are-uniforms.md","permalink":"/docs/why-are-uniforms"}')}}]);

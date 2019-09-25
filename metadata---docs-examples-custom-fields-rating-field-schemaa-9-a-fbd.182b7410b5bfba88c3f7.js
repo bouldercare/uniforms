@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[57],{87:function(e){e.exports=JSON.parse('{"id":"examples/CustomFields/RatingFieldSchema","title":"RatingFieldSchema","description":"```js","source":"/home/travis/build/vazco/uniforms/docs/examples/CustomFields/RatingFieldSchema.md","permalink":"/docs/examples/CustomFields/RatingFieldSchema"}')}}]);
